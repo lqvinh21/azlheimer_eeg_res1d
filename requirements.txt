@@ -1,0 +1,7 @@
+# Cài torch riêng cho khớp CUDA của máy (https://pytorch.org/get-started/locally/)
+numpy
+pandas
+scikit-learn
+matplotlib
+tqdm
+mne
